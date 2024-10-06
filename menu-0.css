@@ -11567,8 +11567,8 @@ blockquote p {
 .menu-0 {
   /* margin-top: 100px; */
   /* padding-top: 400rem; */
-  transform: translatey(5%);
-  width: 1000px;
+  transform: translatey(5%) translatex(-4%);
+  width: 900px;
 }
 
 .logo-1{
